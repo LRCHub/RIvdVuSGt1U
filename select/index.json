@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ホワイトアウト",
+  "base_artist": "TOPHAMHAT-KYO",
+  "createdAt": "2026-02-16T13:37:41.694021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "reGretGirl 「ホワイトアウト」 Official Music Video - Whiteout Official Music Video",
+      "artist": "reGretGirl",
+      "has_synced": true,
+      "path": "select/01_reGretGirl_「ホワイトアウト」_Official_Music_Video_-_Whiteout_Official_Music_Video_reGretGirl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホワイトアウト",
+      "artist": "reGretGirl",
+      "has_synced": true,
+      "path": "select/02_ホワイトアウト_reGretGirl.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Whiteout (ホワイトアウト)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/03_Whiteout_(ホワイトアウト)_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホワイトアウト",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/04_ホワイトアウト_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホワイトアウト",
+      "artist": "TOPHAMHAT-KYO",
+      "has_synced": false,
+      "path": "select/pl_01_ホワイトアウト_TOPHAMHAT-KYO.txt"
+    }
+  ]
+}
